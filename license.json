@@ -1,0 +1,11 @@
+[
+  {
+    "key": "ABCDE-12345-FGHIJ",
+    "allowedPcIds": ["PC-JL9OT495"]
+  },
+  {
+    "key": "XYZ-98765-ZZZZZ",
+    "allowedPcIds": ["PC2-USER-POIUYT"]
+  }
+]
+
